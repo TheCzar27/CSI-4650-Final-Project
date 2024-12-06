@@ -2,7 +2,7 @@ CPU: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
 Cores: 4
 Threads: 8
 RAM: 7.88 GB
-GPU: No GPU detected
+GPU:  No GPU Detected
 OS: Windows
 OS Version: 10.0.19045
 Python Version: 3.12.0

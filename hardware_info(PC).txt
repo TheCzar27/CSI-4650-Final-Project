@@ -1,0 +1,8 @@
+CPU: AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD
+Cores: 6
+Threads: 12
+RAM: 15.95 GB
+GPU:  NVIDIA RTX 2070 Super (CUDA 12.2)
+OS: Windows
+OS Version: 10.0.19045
+Python Version: 3.10.1
